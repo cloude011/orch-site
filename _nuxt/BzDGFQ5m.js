@@ -1,0 +1,1 @@
+import{a as o}from"#entry";import{o as r,b as a,a as t}from"./CXRXa-HL.js";import"./DVHQIg-6.js";const s={};function n(e,c){return r(),a("thead",null,[t(e.$slots,"default")])}const f=Object.assign(o(s,[["render",n]]),{__name:"ProseThead"});export{f as default};

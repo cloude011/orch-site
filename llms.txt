@@ -1,0 +1,55 @@
+# Product Documentation
+
+## Product Documentation - EN
+
+- [Download Orchestra](https://docs.orch.so/start-guide/readme.md): Orchestra is available on multiple platforms, including browsers, macOS, Windows, iOS, and Android
+- [Basics](https://docs.orch.so/start-guide/basics.md): Learn the basics concepts of Orchestra so you can set up your workspace and get the most out of it
+- [Orchestra Flow](https://docs.orch.so/start-guide/orchestra-flow.md): At Orchestra, we build our product based on the same principles that guide our daily work. These principles are at the heart of how Orchestra works
+- [Sign up and Sign in](https://docs.orch.so/start-guide/sign-up-and-sing-in.md): Orchestra offers several sign-up and sign-in options, allowing you to choose the most convenient method for you:
+- [Workspace Basics](https://docs.orch.so/workspace/workspace-basics.md): Your journey with Orchestra starts with workspace creation
+- [Invite and Manage Members](https://docs.orch.so/workspace/invite-and-manage-members.md): Invite and manage members in your workspace
+- [User Roles](https://docs.orch.so/workspace/user-roles.md): Control access and permissions with ease
+- [Basic Pages](https://docs.orch.so/pages-and-ui-elements/basics.md)
+- [Chats Page](https://docs.orch.so/pages-and-ui-elements/chats-page.md)
+- [Tasks Page](https://docs.orch.so/pages-and-ui-elements/tasks-page.md)
+- [Teams Page](https://docs.orch.so/pages-and-ui-elements/teams-page.md)
+- [Info Sidebar](https://docs.orch.so/pages-and-ui-elements/info-sidebar.md)
+- [Chat Sidebar](https://docs.orch.so/pages-and-ui-elements/chat-sidebar.md)
+- [Calls Sidebar](https://docs.orch.so/pages-and-ui-elements/calls-sidebar.md)
+- [Context Menu](https://docs.orch.so/pages-and-ui-elements/context-menu.md)
+- [Settings Page](https://docs.orch.so/pages-and-ui-elements/settings-page.md)
+- [Chats Basics](https://docs.orch.so/chats/chats-basics.md): Chats is the place where your team communication lives and turns into action
+- [Add and Manage Chat Members](https://docs.orch.so/chats/add-and-manage-chat-members.md)
+- [Key Chat Features](https://docs.orch.so/chats/key-chat-features.md)
+- [Key Messages Features](https://docs.orch.so/chats/key-messages-features.md)
+- [Project Basics](https://docs.orch.so/projects/project-basics.md): Create work units to organize your work effectively
+- [Add and Manage Project Members](https://docs.orch.so/projects/add-and-manage-project-members.md)
+- [Key Project Features](https://docs.orch.so/projects/key-project-features.md)
+- [Project Settings](https://docs.orch.so/projects/project-settings.md)
+- [Project Layouts](https://docs.orch.so/projects/project-layouts.md)
+- [Fields](https://docs.orch.so/projects/fields.md)
+- [Tasks Basics](https://docs.orch.so/tasks/tasks-basics.md)
+- [Add and Manage Task Members](https://docs.orch.so/tasks/add-and-manage-task-members.md)
+- [Filters, Sort, Group, and Fields](https://docs.orch.so/tasks/filters-sort-group-and-fields.md): Customize layouts with various filters, grouping, and sorting options. Use fields to have only necessary info displayed
+- [Key Tasks Features](https://docs.orch.so/tasks/key-tasks-features.md)
+- [Views Basics](https://docs.orch.so/views/views-basics.md)
+- [Add and Manage View Members](https://docs.orch.so/views/add-and-manage-view-members.md)
+- [Calls Basics](https://docs.orch.so/calls/calls-basics.md)
+- [Teams Basics](https://docs.orch.so/teams/project-basics.md)
+- [Add and Manage Team Members](https://docs.orch.so/teams/add-and-manage-team-members.md)
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.orch.so/start-guide/readme.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

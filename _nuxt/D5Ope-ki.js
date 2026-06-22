@@ -1,0 +1,1 @@
+import{h as s}from"#entry";import{r as t}from"./CXRXa-HL.js";const m=(r,o=!0)=>{const e=t(!1);return s(r,"mouseover",()=>{o&&(e.value=!0)}),s(r,"mouseleave",()=>{e.value=!1}),{isHovered:e}};export{m as u};

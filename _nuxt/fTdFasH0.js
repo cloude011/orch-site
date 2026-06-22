@@ -1,0 +1,1 @@
+import{a as o}from"#entry";import{o as r,b as t,a as s}from"./CXRXa-HL.js";import"./DVHQIg-6.js";const a={};function n(e,c){return r(),t("th",null,[s(e.$slots,"default")])}const m=Object.assign(o(a,[["render",n]]),{__name:"ProseTh"});export{m as default};
